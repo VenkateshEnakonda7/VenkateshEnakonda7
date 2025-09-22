@@ -5,9 +5,8 @@
 ---
 
 - 🔎 3+ years of experience in QA Automation (Selenium, Java, Python, API Testing)  
-- 🛠 Skilled in CI/CD (Jenkins, Docker, Git)  
-- 📊 Currently diving deep into Data Engineering (PySpark, Airflow, Cloud)  
-- 🤖 Interested in building AI-powered testing solutions & automation bots  
+- 🛠 Skilled in CI/CD (Jenkins, Docker, Git) 
+- 🤖 Passionate about building reliable test automation frameworks and AI-driven tools  
 - 🎯 Goal: To bridge QA, Data, and AI for smarter, scalable systems  
 
 🌱 Always learning. Always experimenting.
