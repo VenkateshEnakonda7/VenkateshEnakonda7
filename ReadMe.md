@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkatesh Enakonda!
 
-👨‍💻 **Automation Test Engineer | Aspiring Data Engineer | Tech Explorer**  
+👨‍💻 ***Automation Test Engineer | Aspiring Data Engineer | Tech Explorer***  
 
 ---
 
