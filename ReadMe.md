@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL
-- **Automation:** Selenium, TestNG, Cucumber
+- **Automation:** Selenium, TestNG, Cucumber, Pytest
 - **Tools:** Jenkins, Jira (Zyper), Docker, Git
 - **Data Engineering:** PySpark, Airflow, Cloud
 
