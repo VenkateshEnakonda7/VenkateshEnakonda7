@@ -24,7 +24,7 @@
 ## 🚀 Featured Projects
 
 - [AI_JOB_AGENT](https://github.com/VenkateshEnakonda7/AI_JOB_AGENT) — AI-powered job automation  
-- [nopcommerceApp](https://github.com/VenkateshEnakonda7/nopcommerceApp) — E-commerce test automation  
+- [nopcommerceApp](https://github.com/VenkateshEnakonda7/nopcommerceApp) — E-commerce test automation  (On Going)
 - [FitpeoAutomation](https://github.com/VenkateshEnakonda7/FitpeoAutomation) — Healthcare automation  
 - [OpencartV121](https://github.com/VenkateshEnakonda7/OpencartV121) — Shopping cart automation  
 - [Jobcheck](#) — Favorite project: job automation (add repo link if public)  
